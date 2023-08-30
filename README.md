@@ -1,2 +1,2 @@
-# final-fantasy-xvi-fossafied-notice
-A project demonstrating automation of FFXVI's attribution file
+# Regenerating FFXI's OSS License File
+A project demonstrating how to use FOSSA to regenerate FFXVI's OSS attributions
