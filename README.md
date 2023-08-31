@@ -55,7 +55,7 @@ Behold, presented herein is a [public report](https://app.fossa.com/reports/cf26
 
 - Ensure that the analysis is conducted at the foundation of this repository.
 - Verify that your API token has been established.
-- Should you encounter persistent difficulties, do not hesitate to consult the Founder!
+- Should you encounter persistent difficulties, do not hesitate to consult the Founder! (Just open a GitHub Issue 😅)
 
 
 ### References
