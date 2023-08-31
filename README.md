@@ -60,5 +60,5 @@ Behold, presented herein is a [public report](https://app.fossa.com/reports/cf26
 
 ### References
 - [README Image](https://finishing-touch.tumblr.com/post/716624527409496064/all-aboard-the-ffxvi-hype-train)
-- [FOSSA documentation](docs.fossa.com)
+- [FOSSA documentation](https://docs.fossa.com)
 - [Square Enix FFXI NA Page](https://na.finalfantasyxvi.com/)
