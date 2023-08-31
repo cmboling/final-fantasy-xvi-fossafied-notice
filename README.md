@@ -13,7 +13,39 @@ A project demonstrating the use of [FOSSA](https://fossa.com/) to regenerate [FF
  
  ## Come To Me, Ifrit!
  
- In unison with your retinue, equip your token and employ the command `fossa analyze` amidst the throes of epic battle.
+ In unison with your retinue, equip your token and employ the command `fossa analyze` amidst the throes of epic battle. Here's an example output:
+
+ ```
+➜  final-fantasy-xvi-fossafied-notice git:(main) ✗ fossa analyze
+
+Scan Summary
+------------
+fossa-cli version 3.8.6 (revision b2657cb78351 compiled with ghc-9.0)
+fossa endpoint server version: 4.14.9
+
+1 projects scanned;  0 skipped,  1 succeeded,  0 failed,  0 analysis warnings
+
+-
+* fossa-deps file analysis: succeeded
+  ** https://github.com/ben-strasser/fast-cpp-csv-parser (reference)
+  ** https://github.com/google/flatbuffers (reference)
+  ** https://github.com/harfbuzz/harfbuzz (reference)
+  ** https://github.com/microsoft/Directxtex (reference)
+  ** https://github.com/khronosgroup/vulkan-headers (reference)
+  ** https://github.com/libigl/eigen (reference)
+
+  Some projects may not appear in the summary if they were filtered during discovery.
+  You can run `fossa list-targets` to see all discoverable projects.
+
+You can pass `--debug` option to eagerly show all warning and failure messages.
+You can also view analysis summary with warning and error messages at: "/private/var/folders/lg/torgalandkupoarefriends/T/fossa-analyze-scan-summary.txt"
+------------
+
+Using project name: `https://github.com/cmboling/final-fantasy-xvi-fossafied-notice.git`
+Using revision: `ec8500656100b7a9f1680803ebb4f1a90cdcb2a0`
+Using branch: `main`
+============================================================
+```
 
 ## Why, the beast has the appetite of a behemouth! 😜
 
