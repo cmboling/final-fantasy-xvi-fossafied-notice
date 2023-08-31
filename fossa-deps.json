@@ -1,0 +1,28 @@
+{
+  "referenced-dependencies": [
+    {
+      "type": "git",
+      "name": "https://github.com/ben-strasser/fast-cpp-csv-parser"
+    },
+    {
+      "type": "git",
+      "name": "https://github.com/google/flatbuffers"
+    },
+    {
+      "type": "git",
+      "name": "https://github.com/harfbuzz/harfbuzz"
+    },
+    {
+      "type": "git",
+      "name": "https://github.com/microsoft/Directxtex"
+    },
+    {
+      "type": "git",
+      "name": "https://github.com/khronosgroup/vulkan-headers"
+    },
+    {
+      "type": "git",
+      "name": "https://github.com/libigl/eigen"
+    }
+  ]
+}
